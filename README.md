@@ -7,3 +7,4 @@ This will cause a conflict.
 >>>>>>> conflict-branch
 This will cause a conflict.
 Staged change
+Change from another machine
